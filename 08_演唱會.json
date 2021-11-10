@@ -1,0 +1,182 @@
+[
+    {
+        "version": "1.4",
+        "UID": "6022c38fd083a396f8aed5bf",
+        "title": "辛曉琪【回報以歌】巡迴演唱會",
+        "category": "17",
+        "showInfo": [
+            {
+                "time": "2021/12/25 19:30:00",
+                "location": "台中市南區興大路145號",
+                "locationName": "台中中興大學惠蓀堂",
+                "onSales": "Y",
+                "price": "3600、3200、2800、2400、1800",
+                "latitude": "24.1234884",
+                "longitude": "120.6769368",
+                "endTime": "2021/12/25 23:59:00"
+            }
+        ],
+        "showUnit": "",
+        "discountInfo": "",
+        "descriptionFilterHtml": "",
+        "imageUrl": "",
+        "masterUnit": [],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID\u003dN10QRHZX",
+        "sourceWebPromote": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID\u003dN10QRHZX",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "年代",
+        "startDate": "2021/12/25",
+        "endDate": "2021/12/25",
+        "hitRate": 377
+    },
+    {
+        "version": "1.4",
+        "UID": "608846eed083a35c303171ab",
+        "title": "EZ5 30th傳奇演唱會 ",
+        "category": "17",
+        "showInfo": [
+            {
+                "time": "2022/02/19 19:30:00",
+                "location": "台北市信義區信義路五段一號",
+                "locationName": "台北國際會議中心大會堂",
+                "onSales": "Y",
+                "price": "3880、3280、2880、2480、2080、1680、1280、880",
+                "latitude": "25.0336111",
+                "longitude": "121.5608333",
+                "endTime": "2022/02/19 23:59:00"
+            }
+        ],
+        "showUnit": "",
+        "discountInfo": "",
+        "descriptionFilterHtml": "",
+        "imageUrl": "",
+        "masterUnit": [],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID\u003dN17X5VT5",
+        "sourceWebPromote": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID\u003dN17X5VT5",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "年代",
+        "startDate": "2022/02/19",
+        "endDate": "2022/02/19",
+        "hitRate": 166
+    },
+    {
+        "version": "1.4",
+        "UID": "60903002d083a35c303174cf",
+        "title": "愛扶特趴｜十萬扶特 好膽你來",
+        "category": "17",
+        "showInfo": [
+            {
+                "time": "2021/06/12 14:00:00",
+                "location": "台中市西屯區中科路2966號",
+                "locationName": "台中中央公園（水湳廣場）",
+                "onSales": "Y",
+                "price": "1480、490",
+                "latitude": "24.1800626",
+                "longitude": "120.6560134",
+                "endTime": "2021/12/31 22:00:00"
+            }
+        ],
+        "showUnit": "",
+        "discountInfo": "",
+        "descriptionFilterHtml": "",
+        "imageUrl": "",
+        "masterUnit": [],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID\u003dN18S5S1U",
+        "sourceWebPromote": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID\u003dN18S5S1U",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "年代",
+        "startDate": "2021/06/12",
+        "endDate": "2021/12/31",
+        "hitRate": 111
+    },
+    {
+        "version": "1.4",
+        "UID": "6171a05ad083a35ab4df823b",
+        "title": "「CHAMPIONS」演唱會",
+        "category": "17",
+        "showInfo": [
+            {
+                "time": "2021/11/27 19:00:00",
+                "location": "台北市信義區信義路五段一號",
+                "locationName": "台北國際會議中心大會堂",
+                "onSales": "Y",
+                "price": "3700、3400、3000、2700、2300、2000、1600",
+                "latitude": "25.0336111",
+                "longitude": "121.5608333",
+                "endTime": "2021/11/27 23:59:00"
+            },
+            {
+                "time": "2021/11/28 19:00:00",
+                "location": "台北市信義區信義路五段一號",
+                "locationName": "台北國際會議中心大會堂",
+                "onSales": "Y",
+                "price": "3700、3400、3000、2700、2300、2000、1600",
+                "latitude": "25.0336111",
+                "longitude": "121.5608333",
+                "endTime": "2021/11/28 19:00:00"
+            }
+        ],
+        "showUnit": "",
+        "discountInfo": "",
+        "descriptionFilterHtml": "",
+        "imageUrl": "",
+        "masterUnit": [],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID\u003dN1K6GUZ8",
+        "sourceWebPromote": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID\u003dN1K6GUZ8",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "年代",
+        "startDate": "2021/11/27",
+        "endDate": "2021/11/28",
+        "hitRate": 32
+    },
+    {
+        "version": "1.4",
+        "UID": "605b73e6d083a370c878dd6b",
+        "title": "本土一哥 蔡佳麟 「愛麟幸福」公益演唱會",
+        "category": "17",
+        "showInfo": [
+            {
+                "time": "2022/06/18 19:30:00",
+                "location": "台中市南區興大路145號",
+                "locationName": "台中中興大學惠蓀堂",
+                "onSales": "Y",
+                "price": "5800、4800、3000、2400、1800、1600、1200、800",
+                "latitude": "24.1234884",
+                "longitude": "120.6769368",
+                "endTime": "2022/06/18 21:30:00"
+            }
+        ],
+        "showUnit": "",
+        "discountInfo": "",
+        "descriptionFilterHtml": "",
+        "imageUrl": "",
+        "masterUnit": [],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID\u003dN15T80EN",
+        "sourceWebPromote": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID\u003dN15T80EN",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "年代",
+        "startDate": "2022/06/18",
+        "endDate": "2022/06/18",
+        "hitRate": 129
+    }
+]

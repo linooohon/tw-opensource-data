@@ -1,0 +1,932 @@
+[
+    {
+        "version": "1.4",
+        "UID": "5ff609e3d083a38ef8e7dfe7",
+        "title": "伊達邵逐鹿市集歌舞展演",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/01/01 11:20:00",
+                "location": "南投縣魚池鄉中山路",
+                "locationName": "日月潭國家風景區",
+                "onSales": "N",
+                "price": "",
+                "latitude": "23.8565133",
+                "longitude": "120.9021315",
+                "endTime": "2021/12/31 18:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)南投縣魚池鄉邵族文化發展協會",
+        "discountInfo": "",
+        "descriptionFilterHtml": "節目內容：耆老經典邵族杵音及邵族迎賓舞。\r\n每週三固定舞團公休日。洽詢電話：049-2850036。\r\n展演地點：日月村伊達邵逐鹿市集。",
+        "imageUrl": "",
+        "masterUnit": [
+            "南投縣魚池鄉邵族文化發展協會"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [
+            "(指導)交通部觀光局日月潭國家風景區管理處"
+        ],
+        "webSales": "",
+        "sourceWebPromote": "http://www.sunmoonlake.gov.tw/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/01/01",
+        "endDate": "2021/12/31",
+        "hitRate": 738
+    },
+    {
+        "version": "1.4",
+        "UID": "5ff609e3d083a38ef8e7dfe8",
+        "title": "信義鄉部落歌舞展演（達瑪巒文化藝術團表演）",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/01/02 10:30:00",
+                "location": "南投縣信義鄉",
+                "locationName": "信義鄉（南投縣）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/12/26 15:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)達瑪巒文化藝術團",
+        "discountInfo": "",
+        "descriptionFilterHtml": "演出舞碼內容：大自然的呼喚、婦女工作生活歌、飲酒之歌、祈禱小米豐收歌（八部合音）、濁水畔的達瑪巒。部落套裝遊程安排與體驗及預約觀賞場次，請洽：049-2741619全先生。",
+        "imageUrl": "",
+        "masterUnit": [
+            "達瑪巒文化藝術團"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [
+            "(指導)交通部觀光局日月潭國家風景區管理處"
+        ],
+        "webSales": "",
+        "sourceWebPromote": "http://www.sunmoonlake.gov.tw/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/01/02",
+        "endDate": "2021/12/26",
+        "hitRate": 301
+    },
+    {
+        "version": "1.4",
+        "UID": "6075ecb7d083a3a724cd58d0",
+        "title": "2021苗栗縣原住民族賽夏假日藝文系列活動：街頭藝人展演（110年11月，1場次） ",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/13 14:20:00",
+                "location": "苗栗縣南庄鄉",
+                "locationName": "南庄鄉（苗栗縣）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/13 16:20:00"
+            }
+        ],
+        "showUnit": "(中華民國)馮秀珍",
+        "discountInfo": "",
+        "descriptionFilterHtml": "苗栗縣府原住民族事務中心規劃「原住民族假日藝文系列活動」，活動期間自農曆新年初一至初五，並延及整個年度，民眾不僅可以欣賞精彩歌舞表演，亦可參觀泰雅文化產業園區、賽夏族民俗文物館，了解原住民族的文化與祭儀，歡迎全國民眾利用假期安排原鄉深度之旅，體驗原民風情。\r\n賽夏族民俗文物館將邀請4組歌舞團體、2組樂團、12位街頭藝人，共計演出25場次，與泰雅文物館展演活動相互呼應，帶動觀光人潮。\r\n\r\n節目內容：馮秀珍-歌舞表演",
+        "imageUrl": "",
+        "masterUnit": [
+            "苗栗縣政府原住民族事務中心"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [
+            "(指導)苗栗縣政府"
+        ],
+        "webSales": "",
+        "sourceWebPromote": "https://www.miaoli.gov.tw/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/13",
+        "endDate": "2021/11/13",
+        "hitRate": 61
+    },
+    {
+        "version": "1.4",
+        "UID": "613bad44d083a31df0013384",
+        "title": "臺史博Rising! 認識臺灣從這裡開始",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/09/26 09:00:00",
+                "location": "臺南市安南區長和路一段250號",
+                "locationName": "國立臺灣歷史博物館",
+                "onSales": "Y",
+                "price": "全票+100;優待票+50;一般團體優待票+90;學生團體票+60",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/12/04 17:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)國立臺灣歷史博物館",
+        "discountInfo": "※ 購票入館後，免費參加，請上臺史博官網報名。\r\n",
+        "descriptionFilterHtml": "22011年開館以來，持續將典藏、研究的成果經由展覽呈現，並透過教育推廣國內外屬於臺灣人生活軌跡的故事，臺史博紮根過去，活躍當代，面向未來。 2021年我們開館10週年了！值此紀念之際，正逢臺灣文化協會100週年以及臺史博升格三級機構，特別推出10大主題升格暨館慶系列活動，期待全民的參與，共同營造知性、感性及美好的體驗時光。\r\n",
+        "imageUrl": "",
+        "masterUnit": [
+            "國立臺灣歷史博物館"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "www.nmth.gov.tw",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/09/26",
+        "endDate": "2021/12/04",
+        "hitRate": 8
+    },
+    {
+        "version": "1.4",
+        "UID": "605b8e7fd083a370c878de15",
+        "title": "2021苗栗縣原住民族假日藝文系列活動（泰雅文物館）",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/02/12 14:20:00",
+                "location": "苗栗縣泰安鄉",
+                "locationName": "泰安鄉（苗栗縣）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/12/26 12:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)苗栗縣政府原住民族事務中心",
+        "discountInfo": "",
+        "descriptionFilterHtml": "共計邀請4組歌舞團體、3組樂團、1組學校團體及15位街頭藝人演出100場次，實力堅強的在地團體精彩表演，將讓泰雅文物館熱情洋溢。",
+        "imageUrl": "",
+        "masterUnit": [
+            "苗栗縣政府原住民族事務中心"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [
+            "(指導)苗栗縣政府"
+        ],
+        "webSales": "",
+        "sourceWebPromote": "https://www.miaoli.gov.tw/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/02/12",
+        "endDate": "2021/12/26",
+        "hitRate": 274
+    },
+    {
+        "version": "1.4",
+        "UID": "605b8e7fd083a370c878de16",
+        "title": "2021苗栗縣原住民族假日藝文系列活動（賽夏族民俗文物館）",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/02/12 14:20:00",
+                "location": "苗栗縣南庄鄉",
+                "locationName": "南庄鄉（苗栗縣）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/12/25 15:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)苗栗縣政府原住民族事務中心",
+        "discountInfo": "",
+        "descriptionFilterHtml": "邀請4組歌舞團體、2組樂團、12位街頭藝人共計演出25場次，與泰雅文物館展演活動相互呼應，帶動觀光人潮。",
+        "imageUrl": "",
+        "masterUnit": [
+            "苗栗縣政府原住民族事務中心"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [
+            "(指導)苗栗縣政府"
+        ],
+        "webSales": "",
+        "sourceWebPromote": "https://www.miaoli.gov.tw/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/02/12",
+        "endDate": "2021/12/25",
+        "hitRate": 226
+    },
+    {
+        "version": "1.4",
+        "UID": "617d97a1d083a35ab4df8704",
+        "title": "假日廣場《舞之美 善之宴 系列三》",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/14 16:00:00",
+                "location": "臺南市東區中華東路三段332號",
+                "locationName": "臺南文化中心",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/14 17:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)救國團崇德中心、虎尾里活動中心、萊恩幼兒園、母幼幼兒園、崇作坊",
+        "discountInfo": "",
+        "descriptionFilterHtml": "本次演出內容以本次演出內容以小品串連呈現，有休閒舞風也有精湛民俗舞技，藉由曼妙的舞姿呈現舞蹈的真諦體會至真、至善、至美；非常適合全家大小一起出動，共享午後時光。\r\n藉著此次表演，三度為美善社會福利基金會募集物資，由於全球經濟發展仍受病毒疫情影響，相對也衝擊幫助各項弱勢族群的服務，希望因著這場表演，協助弱勢傳達美善的愛，讓台灣社會更加溫暖!\r\n",
+        "imageUrl": "",
+        "masterUnit": [
+            "采琪工作室"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [
+            "(合辦)臺南市政府文化局"
+        ],
+        "webSales": "",
+        "sourceWebPromote": "",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/14",
+        "endDate": "2021/11/14",
+        "hitRate": 2
+    },
+    {
+        "version": "1.4",
+        "UID": "617d9832d083a35ab4df8715",
+        "title": "日月潭街頭藝人表演-車埕文化廣場（110年11月）",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/01 09:00:00",
+                "location": "南投縣水里鄉",
+                "locationName": "水里鄉（南投縣）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/30 17:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)交通部觀光局日月潭國家風景區管理處",
+        "discountInfo": "",
+        "descriptionFilterHtml": "演出日期及團隊：\r\n11月1日／李日睦\r\n11月2日／成都之曲\r\n11月3日／休\r\n11月4日／勁爆撼音樂團\r\n11月5日／紙鉛筆\r\n11月6日／茶米樂團\r\n11月7日／老K合唱團\r\n11月8日／星月傳奇\r\n11月9日／潘冠融\r\n11月10日／休\r\n11月11日／秋意濃濃\r\n11月12日／娜荳蘭樂團\r\n11月13日／哈斯 哈斯\r\n11月14日／風韻雅集樂團\r\n11月15日／美音佳人\r\n11月16日／真愛疼惜樂團\r\n11月17日／休\r\n11月18日／真愛樂團\r\n11月19日／芭娜娜樂團\r\n11月20日／飛歌炫舞\r\n11月21日／水里樂團\r\n11月22日／動感心靈\r\n11月23日／稻穗樂舞團\r\n11月24日／休\r\n11月25日／情有獨鍾\r\n11月26日／披頭 two\r\n11月27日／信義合唱團\r\n11月28日／天人菊樂舞\r\n11月29日／掌聲響起樂團\r\n11月30日／山谷回音\r\n更多資訊請至日月潭觀光旅遊網查詢。",
+        "imageUrl": "",
+        "masterUnit": [
+            "交通部觀光局日月潭國家風景區管理處"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "https://www.sunmoonlake.gov.tw/zh-tw/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/01",
+        "endDate": "2021/11/30",
+        "hitRate": 9
+    },
+    {
+        "version": "1.4",
+        "UID": "617d9832d083a35ab4df8716",
+        "title": "日月潭街頭藝人表演-文武廟、伊達邵碼頭、水社碼頭（110年11月）",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/01 09:00:00",
+                "location": "南投縣魚池鄉中山路",
+                "locationName": "日月潭國家風景區",
+                "onSales": "N",
+                "price": "",
+                "latitude": "23.8565133",
+                "longitude": "120.9021315",
+                "endTime": "2021/11/30 21:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)交通部觀光局日月潭國家風景區管理處",
+        "discountInfo": "",
+        "descriptionFilterHtml": "安排動、靜態街頭藝人展演，詳細演出團體及演出時間請上日月潭觀光旅遊網-最新快訊查詢。\r\n演出地點：文武廟廣場、水社碼頭廣場、伊達邵碼頭廣場、玄光寺碼頭。",
+        "imageUrl": "",
+        "masterUnit": [
+            "交通部觀光局日月潭國家風景區管理處"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "https://www.sunmoonlake.gov.tw/zh-tw/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/01",
+        "endDate": "2021/11/30",
+        "hitRate": 3
+    },
+    {
+        "version": "1.4",
+        "UID": "617d9834d083a35ab4df8723",
+        "title": "2021彰化國際藝術節：實驗劇場-闖劇場《飲史》",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/12/04 19:30:00",
+                "location": "彰化縣彰化市",
+                "locationName": "彰化市（彰化縣）\u003d",
+                "onSales": "Y",
+                "price": "全票+400",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/12/04 20:20:00"
+            }
+        ],
+        "showUnit": "(中華民國)闖劇場",
+        "discountInfo": "演出票價：400元(由團隊自行售票)\r\n售票連結：https://bit.ly/3tZ3zdi\r\n售票及相關問題請洽闖劇場劉小姐0981-768-915",
+        "descriptionFilterHtml": "實驗劇場-闖劇場《飲史》\r\n\r\n演出日期：110年12月4日(六) 晚上7：30 ~ 8：20\r\n演出地點：八卦山銀橋\r\n執行團隊：闖劇場\r\n\r\n團隊介紹\r\n新興團隊「闖劇場」成立於 2019 年，由近年來備受矚目的新生代編舞家 黃懷德 創立，同時也是雲門 2 的特邀編舞者。透過觀察不同時期社會變化，融入多變的身體語言與創新思維，表達對臺灣的愛與期待。\r\n\r\n文字介紹\r\n你以為你吃的是肉圓嗎？其實你吃的是「史」\r\n1898年，台灣發生了嚴重的戊戌大水災，一貧如洗、民不聊生、食物短缺，當時身在彰化北斗地區的范萬居先生接收到神明的指示…\r\n將地瓜浸濕，擠壓後揉成團，全世界第一顆「肉圓」由此而生。\r\n",
+        "imageUrl": "",
+        "masterUnit": [
+            "彰化縣政府"
+        ],
+        "subUnit": [
+            "彰化縣文化局"
+        ],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "https://www.bocach.gov.tw/CHIFA/cp.aspx?n\u003d4167",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/12/04",
+        "endDate": "2021/12/04",
+        "hitRate": 2
+    },
+    {
+        "version": "1.4",
+        "UID": "617d9834d083a35ab4df8724",
+        "title": "2021彰化國際藝術節：實驗劇場-狂夢藝術《重過彰化》共2場",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/12/11 19:30:00",
+                "location": "彰化縣彰化市",
+                "locationName": "彰化市（彰化縣）\u003d",
+                "onSales": "Y",
+                "price": "全票+300;全票+500;全票+600",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/12/12 20:30:00"
+            }
+        ],
+        "showUnit": "(中華民國)狂夢藝術",
+        "discountInfo": "演出票價：600、500、300元(由團隊自行售票) \r\n售票連結：https://bit.ly/3m0Relm\r\n售票及相關問題請洽狂夢藝術張先生0910980361",
+        "descriptionFilterHtml": "實驗劇場-狂夢藝術《重過彰化》共2場\r\n\r\n演出日期：110年12月11日(六)、12月12日(日) 晚上7：30 ~ 8：30\r\n集合地點：彰化孔子廟門口\r\n進場檢票時間：晚上7：10 ~ 7：30\r\n演出地點：彰化孔子廟門口、美術館前廣場、武德殿前廣場、八卦山銀橋\r\n執行團隊：狂夢藝術\r\n\r\n團隊介紹\r\n狂夢藝術藉由中西方文化風格為底蘊，搭配魔術、當代舞、雜耍特技等新馬戲之元素相互融合，孕育出獨樹的藝術能量，並帶著表演分享至城市的每個角落,以盡心盡力之態度把最作品做到極致。同時更秉持著「身為臺灣人，我們能夠為臺灣做些什麼？」的信念，結合本土文化與表演藝術，創作屬於臺灣人的表演藝術作品，目標讓世界透過這些作品認識臺灣。\r\n\r\n演出作品：2021 國立臺灣美術館委託現地製作《重返沙龍臺中》; 2020 狂夢藝術秋季公演 / 在現地六年編創計畫《西區舊城》; 2019 國際台南街頭藝術節-馬戲在現地共創計畫、馬來西亞北海藝術節、臺韓國際馬戲演出交流計畫、2018 彰化今秋藝術節。\r\n\r\n文字介紹\r\n《重過彰化》引用自詩人林朝崧先生，在這次作品當中，將呼應作者眼見經過滄桑變易的彰化城，八卦山曾有的故事，昔日山頭、牛羊與靜謐。 \r\n\r\n創作者將以百年彰化市區舊城為出發點，探索其中不同時代的日常故事與生活裡的共同記憶，並藉由馬戲、舞蹈、生活物件、公共空間、地方故事相互碰撞，試圖淡化其中的邊界，讓參與者以移動式觀看的形式，獲得屬於自己獨特詮釋的觀看經驗，以及對於彰化舊城的想像與新意。",
+        "imageUrl": "",
+        "masterUnit": [
+            "彰化縣政府"
+        ],
+        "subUnit": [
+            "彰化縣文化局"
+        ],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "https://www.bocach.gov.tw/CHIFA/cp.aspx?n\u003d4167",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/12/11",
+        "endDate": "2021/12/12",
+        "hitRate": 5
+    },
+    {
+        "version": "1.4",
+        "UID": "618580d9d083a35ab4df8b0a",
+        "title": "2021年人權藝術生活節",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/20 10:00:00",
+                "location": "新北市新店區復興路131號",
+                "locationName": "國家人權博物館",
+                "onSales": "UNKNOWN",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/12/12 22:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)馬世芳;(中華民國)高蕾雅Yinguyu Yatauyungan;(中華民國)保卜•巴督路Baobu Badulu;(中華民國)百合花;(中華民國)巴奈;(中華民國)那布;(中華民國)林生祥;(中華民國)大竹研;(中華民國)明日和合製作所;(中華民國)周書毅;(中華民國)鄭志忠;(中華民國)林太崴;(中華民國)洪芳怡;(中華民國)陳品樺;(中華民國)陳怡安;(中華民國)林慈音;(中華民國)李柏蓒;(中華民國)Crescent Lament 恆月三途;(中華民國)再拒劇團;(中華民國)盜火劇團;(中華民國)河床劇團;(中華民國)陳平浩;(中華民國)張荷澤;(中華民國)洪瑋伶;(中華民國)李佳弘",
+        "discountInfo": "11/4起可至KKTIX售票網搜尋「2021年人權藝術生活節」免費索票",
+        "descriptionFilterHtml": "文化部指導，國家人權博物館主辦的「人權藝術生活節」邁入第二屆，由鴻鴻擔任策展人，從11月20日至12月12日於國家人權博物館白色恐怖景美紀念園區登場，臺灣優秀的藝術家和表演藝術團隊將一同共襄盛舉，用音樂、舞蹈、戲劇與親子節目、常態展覽及短片展等10項共18場次展演系列展演，鏈結人權市集等活動，串聯起一場人權與藝術的盛宴！\r\n\r\n開幕演出將由資深廣播人馬世芳主持，舉辦《提燈上路》音樂會，邀請高蕾雅Yinguyu Yatauyungana、保卜•巴督路Baobu Badulu、百合花、巴奈、那布、林生祥、大竹研Ken Ohtake演出；並輔以兩場講座音樂會，《留聲機的禁歌歲月》播放珍貴的黑膠收藏述說歷史；《寂靜鎮壓》音樂會則是薩克斯風與鋼琴協奏出以二二八事件為靈感的委託創作曲目；Crescent Lament恆月三途帶來的《噤夢之夜》音樂會以重金屬搖滾傳遞沉寂年代臺灣人的故事。\r\n\r\n舞蹈節目則由周書毅、鄭志忠帶來共同創作、演出與表演的舞蹈作品《阿忠與我》選段演出，從人權的角度拋出對話，企圖拉進整個社會的參與，展開更多關於人我、壓抑、平等的辯證。\r\n\r\n為接續上屆兒童人權日的規劃，本次特別以委託創作形式邀請明日和合製作所，以新思維兒童劇場演出《遊戲規則》，開展對兒童權利的探索與想像；盜火劇團《回聲》重新演繹白色恐怖小說文學，以一位80後女學生的視野帶領觀眾回溯過去；再拒劇團的《逝言書》以漫遊者劇場形式引領戴著耳機的觀眾們親臨歷史遺址，返顧消逝的時空。\r\n\r\n白色恐怖短片展中邀請新秀導演張荷澤《永恆之火》、洪瑋伶《K的房間》和李佳泓《像條狗》三部短片，以不同主題透視白色恐怖的幽微角落。《K的房間》榮獲今年度第43屆金穗獎最佳實驗片，可於本次播映時一睹影片風采。\r\n\r\n河床劇團以沉浸式裝置設計的常態展《時光蟲洞》，邀請觀眾改變視野方向，窺視白色恐怖受難者生命故事的短片，試圖賦予這些故事新的詮釋，提供觀眾得以傾聽及參與歷史的能力。\r\n\r\n除精彩的演出之外，今年也將有一系列與人權議題相關的響應活動。期待用更豐富多元的相應活動，開展群眾與人權、藝術、生活之間更廣闊的交流空間。\r\n\r\n2021年人權藝術生活節活動均為免費參加，11月3日將於KKTIX票務系統開放線上索票。今年的人權藝術生活節期間將有臉書打卡、集章、抽獎等活動，詳情請關注國家人權博物館、人權藝術生活節官方網站，或臉書粉絲頁搜尋「人權藝術生活節」獲得更多資訊。\r\n\r\n活動網站：https://www.hrftw.com/\r\n臉書粉絲專頁：https://www.facebook.com/hrftw\r\nKKTIX售票頁：https://2021twhrf.kktix.cc/events/2021twhrf",
+        "imageUrl": "",
+        "masterUnit": [],
+        "subUnit": [
+            "東烜文創事業有限公司"
+        ],
+        "supportUnit": [],
+        "otherUnit": [
+            "(指導)文化部"
+        ],
+        "webSales": "https://kktix.com/",
+        "sourceWebPromote": "https://www.hrftw.com/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/20",
+        "endDate": "2021/12/12",
+        "hitRate": 1
+    },
+    {
+        "version": "1.4",
+        "UID": "61575c2fd083a31df0013a08",
+        "title": "2021臺南市里社區活動中心才藝嘉年華-清水模。摸土情。輕輕更心晴",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/07 09:00:00",
+                "location": "臺南市中西區",
+                "locationName": "中西區（臺南市）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/11 17:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)郡王里長青班、Tokki愛工坊、南門玩很大手作教室、悠十企業、後甲社大水電二組、琴韻飛揚口琴社、藍晒文旅、微笑文元擴香人",
+        "discountInfo": "",
+        "descriptionFilterHtml": "2021臺南市里社區活動中心才藝嘉年華\r\n中西區公所邀請郡王里長青班、Tokki愛工坊、南門玩很大手作教室、悠十企業、後甲社大水電二組、琴韻飛揚口琴社、藍晒文旅、微笑文元擴香人聯展，展出清水模石膏藝品與中國節、園藝植栽組合之作品展，歡迎里民闔家蒞臨觀賞。",
+        "imageUrl": "",
+        "masterUnit": [
+            "臺南市政府民政局"
+        ],
+        "subUnit": [
+            "臺南市中西區公所"
+        ],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/07",
+        "endDate": "2021/11/11",
+        "hitRate": 3
+    },
+    {
+        "version": "1.4",
+        "UID": "61858161d083a35ab4df8b69",
+        "title": "北投梅庭冬季音樂會",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/27 14:30:00",
+                "location": "臺北市北投區臺北市北投區中山路6號",
+                "locationName": "梅庭",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/27 16:30:00"
+            }
+        ],
+        "showUnit": "(中華民國)北投梅庭",
+        "discountInfo": "",
+        "descriptionFilterHtml": "2021溫泉季：響應北投的冬季慶典，梅庭將推出音樂展演及親子活動，邀請您體驗溫暖且熱情的北投\r\n",
+        "imageUrl": "",
+        "masterUnit": [
+            "北投梅庭"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/27",
+        "endDate": "2021/11/27",
+        "hitRate": 1
+    },
+    {
+        "version": "1.4",
+        "UID": "611571a2d083a31df00129a4",
+        "title": "信義鄉部落歌舞展演（達瑪巒文化藝術團表演）",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/08/01 10:30:00",
+                "location": "南投縣信義鄉",
+                "locationName": "信義鄉（南投縣）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/12/26 15:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)達瑪巒文化藝術團",
+        "discountInfo": "",
+        "descriptionFilterHtml": "演出舞碼內容：大自然的呼喚、婦女工作生活歌、飲酒之歌、祈禱小米豐收歌（八部合音）、濁水畔的達瑪巒。部落套裝遊程安排與體驗及預約觀賞場次，請洽：049-2741619全先生。",
+        "imageUrl": "",
+        "masterUnit": [],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [
+            "(執行)達瑪巒文化藝術團",
+            "(指導)交通部觀光局日月潭國家風景區管理處"
+        ],
+        "webSales": "",
+        "sourceWebPromote": "http://www.sunmoonlake.gov.tw/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/08/01",
+        "endDate": "2021/12/26",
+        "hitRate": 8
+    },
+    {
+        "version": "1.4",
+        "UID": "612e7dead083a31df0012f55",
+        "title": "藝舞凡顧 傳遞溫情",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/20 10:00:00",
+                "location": "桃園市桃園區",
+                "locationName": "桃園區（桃園市）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/20 16:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)同安流行舞蹈團;(中華民國)永康樂舞舞蹈團;(中華民國)同安歡樂歌唱班",
+        "discountInfo": "",
+        "descriptionFilterHtml": "同安流行舞蹈團演出曲目:1.Fancy，2.Lovesick girl。\r\n永康樂舞舞蹈團:1.康蒂達恰恰，2.不配懷念。\r\n同安歡樂歌唱班演唱曲目有：謝金晶-一生最愛你，謝宜君-純情花，喬幼-溫暖的偎靠，謝宜君-醉情花，詹雅雯-心情歌路，方順吉-浪子歌聲，蘇路-愛情的味，謝金燕-姐姐，張學友-每天多愛你一些，向蕙玲-自作多情。",
+        "imageUrl": "",
+        "masterUnit": [
+            "桃園市同安社福關懷協會"
+        ],
+        "subUnit": [
+            "桃園市桃園區公所",
+            "桃園市桃園區同安里辦公處",
+            "桃園市議員林政賢服務處"
+        ],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/20",
+        "endDate": "2021/11/20",
+        "hitRate": 8
+    },
+    {
+        "version": "1.4",
+        "UID": "616f1793d083a35ab4df8192",
+        "title": "南投縣110年度藝文教育扎根計畫成果匯演暨展覽開幕式",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/13 10:00:00",
+                "location": "南投縣南投市中興新村環山路95巷26號",
+                "locationName": "虎山藝術館",
+                "onSales": "N",
+                "price": "",
+                "latitude": "23.9179739",
+                "longitude": "120.6774812",
+                "endTime": "2021/11/13 12:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)南投縣政府文化局",
+        "discountInfo": "",
+        "descriptionFilterHtml": "110年度藝文教育扎根計畫以「茶竹文化」及「原住民樂舞」為主題，共17所國中小與3個藝文團體參與，成果包含竹藝、南投陶、原民編織、賽德克族傳統織布、布農歌謠、泰雅族吟唱等原民歌舞、竹樂器演奏等。\r\n成果匯演除竹樂器演奏、布農歌謠、泰雅族吟唱等原民歌舞表演外，現場安排竹藝、南投陶、賽德克族傳統織布等免費又有趣的互動體驗DIY與遊戲，歡迎大小朋友前往體驗藝術美感扎根成果。\r\n活動流程：\r\n10:05-10:15 貴賓致詞\r\n10:20-10:30 竹山鎮中和國小-竹樂器演奏\r\n10:35-10:45 信義鄉地利國小-布農歌謠\r\n10:50-11:00 仁愛鄉法治國小-布農歌謠\r\n11:05-11:15 竹山鎮秀林國小-竹樂器演奏\r\n11:20-11:30 仁愛鄉力行國小-泰雅樂舞\r\n11:35-11:45 信義鄉同富國中-布農歌謠\r\n11:50-12:00 水里鄉民和國中-布農歌謠",
+        "imageUrl": "",
+        "masterUnit": [
+            "南投縣政府文化局"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [
+            "(指導)文化部"
+        ],
+        "webSales": "",
+        "sourceWebPromote": "https://www.nthcc.gov.tw/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/13",
+        "endDate": "2021/11/13",
+        "hitRate": 5
+    },
+    {
+        "version": "1.4",
+        "UID": "61842fbdd083a35ab4df8acf",
+        "title": "110年度「YOYO樂，泡泡趣」-YOYO家族唱跳表演（彰化市兒童公園）",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/13 14:00:00",
+                "location": "彰化縣彰化市",
+                "locationName": "彰化市（彰化縣）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/13 17:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)YOYO家族",
+        "discountInfo": "11月8日12：00開放11月13日場線上報名",
+        "descriptionFilterHtml": "活動內容：\r\nYOYO家族哥哥姊姊一起唱唱跳跳\r\n\r\n日期及地點：\r\n*.110年11月13日(週六，兒童公園)14：00-17：00",
+        "imageUrl": "",
+        "masterUnit": [
+            "彰化市公所"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "https://www.changhua.gov.tw/?aid\u003d401\u0026page_name\u003ddetail\u0026iid\u003d10106",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/13",
+        "endDate": "2021/11/13",
+        "hitRate": 0
+    },
+    {
+        "version": "1.4",
+        "UID": "61842fbfd083a35ab4df8adc",
+        "title": "110年度「YOYO樂，泡泡趣」-YOYO家族唱跳表演（彰化市金馬公園）",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/20 14:00:00",
+                "location": "彰化縣彰化市",
+                "locationName": "彰化市（彰化縣）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/20 17:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)YOYO家族",
+        "discountInfo": "11月8日12：00開放11月13日場線上報名",
+        "descriptionFilterHtml": "活動內容：\r\nYOYO家族哥哥姊姊一起唱唱跳跳\r\n\r\n日期及地點：\r\n*.110年11月20日(週六，金馬公園)14：00-17：00",
+        "imageUrl": "",
+        "masterUnit": [
+            "彰化市公所"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "https://www.changhua.gov.tw/?aid\u003d401\u0026page_name\u003ddetail\u0026iid\u003d10106",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/20",
+        "endDate": "2021/11/20",
+        "hitRate": 0
+    },
+    {
+        "version": "1.4",
+        "UID": "61842fbfd083a35ab4df8add",
+        "title": "110年度「YOYO樂，泡泡趣」-YOYO家族唱跳表演（彰化市自強停車場）",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/27 14:00:00",
+                "location": "彰化縣彰化市",
+                "locationName": "彰化市（彰化縣）\u003d",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/27 17:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)YOYO家族",
+        "discountInfo": "11月22日12：00開放11月27日場線上報名",
+        "descriptionFilterHtml": "活動內容：\r\nYOYO家族哥哥姊姊一起唱唱跳跳\r\n\r\n日期及地點：\r\n*.110年11月27日(週六，自強停車場)14：00-17：00",
+        "imageUrl": "",
+        "masterUnit": [
+            "彰化市公所"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "https://www.changhua.gov.tw/?aid\u003d401\u0026page_name\u003ddetail\u0026iid\u003d10106",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/27",
+        "endDate": "2021/11/27",
+        "hitRate": 0
+    },
+    {
+        "version": "1.4",
+        "UID": "6178524bd083a35ab4df84d5",
+        "title": "高雄紙芝居故事劇場【親子故事劇場\u0026親子DIY】",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/20 09:30:00",
+                "location": "屏東縣東港鎮新勝街51-30號",
+                "locationName": "屏東縣東港鎮立圖書館",
+                "onSales": "Y",
+                "price": "材料費+50",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/20 11:30:00"
+            }
+        ],
+        "showUnit": "(中華民國)紙芝居故事劇場",
+        "discountInfo": "",
+        "descriptionFilterHtml": "親子故事劇場 —\r\n【香共共】\r\n羊咩咩村有個很棒的習俗，小朋友滿10歲這一年，他要一個人出去冒險3天，慶祝長大囉！小白今年8月就滿10歲了，親愛的媽媽準備什麼好吃的給他帶出門呢？讓我們跟他一起去冒險就知道囉~~\r\n【媽媽在哪裡】\r\n小海龜出生了，「媽媽！媽媽！」可是他們3兄弟找不到親愛的媽媽啊，於是開始踏上千里尋母的旅程，雖然其中吃了許多苦，還好最後終於找到親愛的媽媽了！\r\n\r\n親子手作DIY—創意偶(黏土捏塑)",
+        "imageUrl": "",
+        "masterUnit": [
+            "屏東縣東港鎮公所"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/20",
+        "endDate": "2021/11/20",
+        "hitRate": 9
+    },
+    {
+        "version": "1.4",
+        "UID": "6165dd4bd083a3961cbfdf06",
+        "title": "大墩周日廣場-馬達加斯加系列活動",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/14 13:00:00",
+                "location": "臺中市西區英才路600號",
+                "locationName": "臺中市大墩文化中心",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/14 17:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)臺中市大墩文化中心",
+        "discountInfo": "",
+        "descriptionFilterHtml": "邀請台中腔非洲鼓舞樂團、Vahine大溪地舞團、李丹魔術氣球小丑現場演出，並設有自然系市集5攤及兩場親子DIY活動(採預先報名參加)。\r\n",
+        "imageUrl": "",
+        "masterUnit": [
+            "臺中市大墩文化中心"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/14",
+        "endDate": "2021/11/14",
+        "hitRate": 6
+    },
+    {
+        "version": "1.4",
+        "UID": "6165dd4bd083a3961cbfdf07",
+        "title": "大墩城市小舞臺-玩具總動員",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/21 14:00:00",
+                "location": "臺中市西區英才路600號",
+                "locationName": "臺中市大墩文化中心",
+                "onSales": "N",
+                "price": "",
+                "latitude": null,
+                "longitude": null,
+                "endTime": "2021/11/21 17:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)臺中市大墩文化中心",
+        "discountInfo": "",
+        "descriptionFilterHtml": "邀請圓圈圈舞團、Jester互動雜耍、波波星球帶動跳現場帶動小孩歡樂氣氛，並設有玩具工藝市集及二手玩具交流區供孩童互動體驗。",
+        "imageUrl": "",
+        "masterUnit": [
+            "臺中市大墩文化中心"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/21",
+        "endDate": "2021/11/21",
+        "hitRate": 5
+    },
+    {
+        "version": "1.4",
+        "UID": "6165dd56d083a3961cbfdf2d",
+        "title": "臺文館超進化─升格暨 18 週年館慶系列活動 ",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/09/25 10:00:00",
+                "location": "臺南市中西區中正路1號",
+                "locationName": "國立臺灣文學館",
+                "onSales": "N",
+                "price": "",
+                "latitude": "22.992064",
+                "longitude": "120.203953",
+                "endTime": "2021/12/10 18:00:00"
+            }
+        ],
+        "showUnit": "(中華民國)國立臺灣文學館",
+        "discountInfo": "",
+        "descriptionFilterHtml": "慶祝臺文館升格為三級機構，並將在 10 月 17 日滿 18 歲！\r\n自 9 月起至 12 月，推出各項精彩活動：論壇、現代舞、\r\n音樂會、戲劇演出、市集、活動、講座等等，歡迎民眾踴躍參加。",
+        "imageUrl": "",
+        "masterUnit": [
+            "國立臺灣文學館"
+        ],
+        "subUnit": [],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "https://www.nmtl.gov.tw/",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/09/25",
+        "endDate": "2021/12/10",
+        "hitRate": 10
+    },
+    {
+        "version": "1.4",
+        "UID": "618ac74ad083a35ab4df8d89",
+        "title": "2021臺中親子音樂季",
+        "category": "11",
+        "showInfo": [
+            {
+                "time": "2021/11/18 09:00:00",
+                "location": "臺中市北屯區旅順路2段73號",
+                "locationName": "臺灣民俗文物館",
+                "onSales": "N",
+                "price": "",
+                "latitude": "24.174652",
+                "longitude": "120.687272",
+                "endTime": "2021/11/21 17:30:00"
+            }
+        ],
+        "showUnit": "(中華民國)YOYO家族;(中華民國)小青蛙劇團;(中華民國)巧比家族腹語魔術;(中華民國)身聲劇場;(中華民國)小丑氣球秀;(中華民國)甜姐兒童話故事氣球;(中華民國)踢躂舞台TAP RADIO;(中華民國)世界冠軍小丑秀;(中華民國)天創娛樂工作室;(中華民國)孫悟空72變魔術秀;(中華民國)賴小不爵士鼓;(中華民國)哈哈滬非洲鼓樂團;(中華民國)水分子樂團;(中華民國)魔術表演互動秀;(中華民國)大氣球秀;(中華民國)天馬戲創作劇團",
+        "discountInfo": "",
+        "descriptionFilterHtml": "​臺中是一個親子宜居的幸福城市，市府持續推動「公托、公幼、親子館倍增計畫」升級育兒環境，因此，今年持續規劃舉辦「親子音樂季」旨在透過音樂為媒介，提供大小朋友一個親子共遊的場域，今年一樣有多元的音樂類型演出，也有熱情活潑的YOYO哥哥姐姐要陪大家帶動跳，還有戲劇、魔術等多元的表演，以及好玩有趣的遊具，要跟小朋友一起來FUN電，希望能陪伴大家一同享受溫馨的親子時光。",
+        "imageUrl": "",
+        "masterUnit": [
+            "臺中市政府新聞局"
+        ],
+        "subUnit": [
+            "東森電視臺",
+            "臺灣民俗文物館"
+        ],
+        "supportUnit": [],
+        "otherUnit": [],
+        "webSales": "",
+        "sourceWebPromote": "",
+        "comment": "",
+        "editModifyDate": "",
+        "sourceWebName": "全國藝文活動資訊系統",
+        "startDate": "2021/11/18",
+        "endDate": "2021/11/21",
+        "hitRate": 0
+    }
+]
